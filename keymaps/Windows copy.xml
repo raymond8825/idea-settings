@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="ActivateCommitToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateTerminalToolWindow">
@@ -10,6 +11,9 @@
   </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="ActivateleetcodeToolWindow">
+    <keyboard-shortcut first-keystroke="alt 0" />
   </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt open_bracket" />
