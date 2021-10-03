@@ -53,7 +53,7 @@
   <action id="Groovy.Shell.Execute" />
   <action id="KotlinShellExecute" />
   <action id="QuickList.Common">
-    <keyboard-shortcut first-keystroke="shift alt enter" />
+    <keyboard-shortcut first-keystroke="shift alt semicolon" />
   </action>
   <action id="ViewSource" />
 </keymap>
