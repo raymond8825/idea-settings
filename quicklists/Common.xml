@@ -1,4 +1,0 @@
-<list display="Common" description="常用命令">
-  <action id="ReformatCode" />
-  <action id="Replace" />
-</list>

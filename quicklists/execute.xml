@@ -1,0 +1,5 @@
+<list display="execute">
+  <action id="Run" />
+  <action id="Compile" />
+  <action id="CompileProject" />
+</list>
