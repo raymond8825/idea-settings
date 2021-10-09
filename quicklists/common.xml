@@ -1,7 +1,7 @@
 <list display="common" description="常用命令">
   <action id="ReformatCode" />
-  <action id="Replace" />
   <action id="FindInPath" />
+  <action id="Replace" />
   <action id="QuickList.$Separator$" />
   <action id="ShowSettings" />
 </list>
