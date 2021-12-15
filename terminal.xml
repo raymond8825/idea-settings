@@ -2,6 +2,6 @@
   <component name="TerminalOptionsProvider">
     <option name="myShellPath" value="&quot;cmd.exe&quot;" />
     <option name="mySoundBell" value="false" />
-    <option name="myTabName" value="WSL" />
+    <option name="myTabName" value="cmd" />
   </component>
 </application>
